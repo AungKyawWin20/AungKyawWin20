@@ -74,7 +74,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/keyboard-fast-typing-jim-carrey-gif-26819026"  />
+<img align="right" height="150" src="assets/keyboard-fast-typing.gif"  />
 
 ###
 
