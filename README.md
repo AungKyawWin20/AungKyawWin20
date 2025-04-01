@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Junior Data Science student at Bard College, deeply interested in Statistical Modeling & AI<br>📊 Conducted research on international trade & tax laws as a Data Science Intern<br>🏆 Former ASEAN Data Science Explorers Ambassador, training 250+ students<br>📊 Exploring Financial Analytics, Credit Scoring, and AI applications<br>🖥️ Aspiring ML Engineer / Financial Data Scientist</p>
+<p align="left">🎓 Junior Data Science student at Bard College, deeply interested in Statistical Modeling & AI<br>📊 Conducted research on international trade & tax laws as a Data Scientist Intern<br>🏆 Former ASEAN Data Science Explorers Ambassador, training 250+ students<br>📊 Exploring Financial Analytics, Credit Scoring, and AI applications<br>🖥️ Aspiring ML Engineer / Financial Data Scientist</p>
 
 ###
 
